@@ -1,0 +1,12 @@
+1
+|||
+Muffi'n Update Notifications.
+
+install info........
+New Build Is OUT! Click DISMISS, another message should pop up
+click FRESH INSTALL! Once install is done, click force close
+and re-open kodi afterwards and you're good to go.
+
+Changelog
+
+Updated info.......
