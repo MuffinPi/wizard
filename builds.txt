@@ -1,6 +1,6 @@
 name="PiBoX"
 version="2.0"
-url="https://www.dropbox.com/s/w1katz4n98t9v3y/FINAL.zip"
+url="https://uploadfiles.io/nxeqd"
 minor="http://"
 gui="https://www.dropbox.com/s/mnk4f1nsbw31t6o/FINAL_guisettings.zip"
 kodi="18.0"
