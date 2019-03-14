@@ -1,6 +1,6 @@
 id="plugin.program.muffinwizard"
 version="0.2.2"
-zip="https://github.com/muffinpi/addons/master/plugin.program.muffinwizard/plugin.program.muffinwizard-0.2.2.zip"
+zip="https://github.com/muffinpi/addons/master/raw/plugin.program.muffinwizard/plugin.program.muffinwizard-0.2.2.zip"
 
 name="PiBoX"
 version="2.0"
