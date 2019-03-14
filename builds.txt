@@ -5,8 +5,8 @@ minor="http://"
 gui="https://www.dropbox.com/s/mnk4f1nsbw31t6o/FINAL_guisettings.zip?dl=0"
 kodi="18.0"
 theme="http://"
-icon="http://
-fanart="http://
+icon="http://"
+fanart="http://"
 preview="http://"
 adult="no"
 info="http://"
