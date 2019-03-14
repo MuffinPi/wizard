@@ -4,13 +4,13 @@ zip="https://github.com/MuffinPi/addons/raw/master/plugin.program.muffinwizard/p
 
 name="PiBoX"
 version="2.0"
-url="https://www.dropbox.com/s/w1katz4n98t9v3y/FINAL.zip?dl=0"
+url="https://www.dropbox.com/s/w1katz4n98t9v3y/FINAL.zip"
 minor="http://"
-gui="https://www.dropbox.com/s/mnk4f1nsbw31t6o/FINAL_guisettings.zip?dl=0"
+gui="https://www.dropbox.com/s/mnk4f1nsbw31t6o/FINAL_guisettings.zip"
 kodi="18.0"
 theme="http://"
-icon="http://"
-fanart="http://"
+icon="https://raw.githubusercontent.com/MuffinPi/wizard/master/icon.png
+fanart="https://raw.githubusercontent.com/MuffinPi/wizard/master/fanart.jpg
 preview="http://"
 adult="no"
 info="http://"
