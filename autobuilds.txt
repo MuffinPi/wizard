@@ -4,9 +4,9 @@ zip="https://github.com/MuffinPi/addons/raw/master/plugin.program.muffinwizard/p
 
 name="PiBoX"
 version="2.0"
-url="https://nofile.io/g/Gahiye343y8VPYEZsGnvBOePReGFTAw36NAQoeKdV50a34qFnuOXe2zDcjIn45pU/FINAL.zip/"
+url="https://www.dropbox.com/s/w1katz4n98t9v3y/FINAL.zip?dl=1"
 minor="http://"
-gui="https://www.dropbox.com/s/mnk4f1nsbw31t6o/FINAL_guisettings.zip"
+gui="https://www.dropbox.com/s/mnk4f1nsbw31t6o/FINAL_guisettings.zip?dl=1"
 kodi="18.0"
 theme="http://"
 icon="https://raw.githubusercontent.com/MuffinPi/wizard/master/icon.png"
