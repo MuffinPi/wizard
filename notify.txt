@@ -1,17 +1,17 @@
 1
 |||
-[COLOR dodgerblue]Muffi'n Update Notifications.
+[COLOR dodgerblue]Some Muffi'n Update Notifications.
 
 Hello World! All update informations will be published here!
-(to see this message again restar your system)
+((To see this message again restar your system) DON'T push Dismiss!)
 This is the "first" muffi'n Build, so nothing new now... 
-Have some projects going, on so suspet someting new in a few weeks or so
+Have some projects going on... maby you can suspet someting new in a few weeks or so..
 (but dont feel that you have yo update your system)
-(if its not wrtten out here with CAPITAL letters that you should)
-Have A Good Day! 
+(if its not wrtten out here with CAPITAL letters that you should) 
+Look at the bottom of this message for INFO on whats coming in future updates! :)
 
 Install info........
-For new users: Click Reminde later (or Dismiss if you don't 
+For new users: Click Remind Me Later (or Dismiss if you don't 
 want to se this message again), another message should pop up.
 Click FRESH INSTALL! Once install is done, click force close
 and re-open kodi afterwards and you're good to go.
@@ -41,11 +41,20 @@ For more HELP with anithing, please contact your nearest muffin ;P
 
 Changelog...
 So many updates that i cant keep track... but main ones are:
-Wizard! :) (now you can update from home, and make your own backups!)
-New play alternatives!
-New Favorite Category
-Leia 18.1
-Minor Addon Updates, tweaks and fixes.
+*Wizard! :) (now you can update from home, and make your own backups!)
+*New play alternatives and providers!
+*New Favorite Category
+*Leia 18.1
+*Minor Addon Updates, tweaks and fixes.
+
+Future Updates
+*New Anime Providers
+*Yet More Providers
+*Smart YouTube Playlists (maby costumable)
+*More LiveTV
+*New "Noflix" Look (maby you can be able to choose betwene two or more skins)
+*Steamlining, tweaks and fixes... (mostly "under the hood")
+*Requests (listening)
 
 Have a super duper day!
 Kisses and Hugs![/COLOR]
