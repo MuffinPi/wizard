@@ -1,6 +1,6 @@
 1
 |||
-Muffi'n Update Notifications.
+[COLOR red]Muffi'n Update Notifications.
 
 Hello World! All update informations will be published here!
 (to see this message again restar your system)
@@ -44,3 +44,4 @@ New play alternatives!
 New Favorite Category
 Leia 18.1
 Minor Addon Updates, tweaks and fixes.
+[/COLOR]
