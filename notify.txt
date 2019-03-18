@@ -2,11 +2,45 @@
 |||
 Muffi'n Update Notifications.
 
-install info........
-New Build Is OUT! Click DISMISS, another message should pop up
+Hello World! All update informations will be published here!
+(to see this message again restar your system)
+This is the "first" muffi'n Build, so nothing new now... 
+Have some projects going, on so suspet someting new in a few weeks or so
+(but dont feel that you have yo update your system)
+(if its not wrtten out here with CAPITAL letters that you should)
+Have A Good Day! 
+
+Install info........
+For new users: Click DISMISS, another message should pop up
 click FRESH INSTALL! Once install is done, click force close
 and re-open kodi afterwards and you're good to go.
+For old users: Go to update to check if new version has arived.
+(this notification will also pop up every time you restart yur system,
+and new updates will be anounced here.)
 
-Changelog
+First Time Users! (authorize Trakt)
+You will be asked to authorize trakt from both Track and Elementum.
+First if you dont have a trakt account.. go to trakt.tv and make one now!
+You will also need to go in to one movie then go to settings
+and choose OpenMeta There you will go to Trakt and chose authorize.
+When you have authorized ALL 3 addons you are good to go.
+(all your settings will be saved later if and when you update yoyr system)
+!!!IF YOU ALLREADY HAVE A TRAKT ACCOUNT!!! (!First Time Users ONLY!) 
+Then you have to make shure to authorize Trakt Addon LAST!!!
+(or else you risk losing your whole collection) YIKES!
 
-Updated info.......
+First Time Users! (Enable VPN)
+Go to Addons -> My Addons -> Programs -> VPN manager for openvpn
+And Enable the addon. a pop up will apear and ask you a question.
+Chose Wizard, and put in your credentials and follow the wizard.
+Voulá, Your done! Go to Power and pres upp to find VPN and check your conection ect.
+
+For more HELP with anithing, please contact your nearest muffin ;P
+
+Changelog...
+So many updates that i cant keep track... but main ones are:
+Wizard! :) (now you can update from home, and make your own backups!)
+New play alternatives!
+New Favorite Category
+Leia 18.1
+Minor Addon Updates, tweaks and fixes.
