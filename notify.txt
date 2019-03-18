@@ -11,12 +11,14 @@ Have some projects going, on so suspet someting new in a few weeks or so
 Have A Good Day! 
 
 Install info........
-For new users: Click DISMISS, another message should pop up
-click FRESH INSTALL! Once install is done, click force close
+For new users: Click Reminde later (or Dismiss if you don't 
+want to se this message again), another message should pop up.
+Click FRESH INSTALL! Once install is done, click force close
 and re-open kodi afterwards and you're good to go.
 For old users: Go to update to check if new version has arived.
-(this notification will also pop up every time you restart yur system,
-and new updates will be anounced here.)
+(also you will get a little auto notis when new update is available)
+If you have made some custom changes; chose Standard install.
+Otherwise chose Fresh Install.
 
 First Time Users! (authorize Trakt)
 You will be asked to authorize trakt from both Track and Elementum.
