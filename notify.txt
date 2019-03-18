@@ -1,6 +1,6 @@
 1
 |||
-[COLOR blue]Muffi'n Update Notifications.
+[COLOR dodgerblue]Muffi'n Update Notifications.
 
 Hello World! All update informations will be published here!
 (to see this message again restar your system)
