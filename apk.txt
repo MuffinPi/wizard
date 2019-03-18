@@ -2,6 +2,6 @@ name="Filler Link"
 url=""
 icon=""
 fanart=""
-adult="no"
+adult=""
 description=""
 
