@@ -1,6 +1,6 @@
 1
 |||
-[COLOR PURPLE]Muffi'n Update Notifications.
+[COLOR RED]Muffi'n Update Notifications.
 
 Hello World! All update informations will be published here!
 (to see this message again restar your system)
