@@ -1,8 +1,6 @@
 1
 |||
-
 [COLOR lime]
-
       ,'``.._   ,'``.
      :,--._:)\,:,._,.:       All Glory to
      :`--,''   :`...';\      the HYPNO TOAD!
@@ -21,8 +19,7 @@
 `--(   `-:`.     `' ___..'  _,-'   |/   `.)
     `-. `.`.``-----``--,  .'
       |/`.\`'        ,','); 
-          `         (/  (/
-          
+          `         (/  (/         
 "I am the slime from your video, Can't stop the slime, people, lookit me go" -zappa
 [/COLOR]
 [COLOR deeppink]
@@ -34,8 +31,7 @@
    \  |         |   _)   _| _)               |   _)_|                              
     \ |   _ \   __|  |  |    |   __|   _` |  __|  |   _ \   __ \    __|            
   |\  |  (   |  |    |  __|  |  (     (   |  |    |  (   |  |   | \__ \            
- _| \_| \___/  \__| _| _|   _| \___| \__,_| \__| _| \___/  _|  _| ____/ _) _) _)   
-                                                                                   
+ _| \_| \___/  \__| _| _|   _| \___| \__,_| \__| _| \___/  _|  _| ____/ _) _) _)                                                                                      
 [/COLOR]
 [COLOR dodgerblue]
 Hello World! All update informations will be published here!
