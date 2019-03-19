@@ -1,13 +1,75 @@
 1
 |||
-[COLOR pink]
-                                                                                                                                                                           
-                                                                                                                                                                           
-                                                                                                                                                                           
-                                                                                                                                                                           
-                                                                                                                                                                           
-                                                                                                                                                                           
-                                                                                                                                                                           
+
+[COLOR lime]
+____ ____ _  _ ____    _  _ _  _ ____ ____ _ . _  _    _  _ ___  ___  ____ ___ ____ 
+[__  |  | |\/| |___    |\/| |  | |___ |___ | ' |\ |    |  | |__] |  \ |__|  |  |___ 
+___] |__| |  | |___    |  | |__| |    |    |   | \|    |__| |    |__/ |  |  |  |___ 
+                                                                                    
+_  _ ____ ___ _ ____ _ ____ ____ ___ _ ____ _  _ ____                               
+|\ | |  |  |  | |___ | |    |__|  |  | |  | |\ | [__                                
+| \| |__|  |  | |    | |___ |  |  |  | |__| | \| ___] ... 
+[/COLOR]
+[COLOR dodgerblue]
+Hello World! All update informations will be published here!
+((To see this message again restar your system) DON'T push Dismiss!)
+This is the "first" muffi'n Build, so nothing new now... 
+Have some projects going on... maby you can suspet someting new in a few weeks or so..
+(but dont feel that you have yo update your system)
+(if its not wrtten out here with CAPITAL letters that you should) 
+Look at the bottom of this message for INFO on whats coming in future updates! :)
+
+Install info........
+For new users: Click Remind Me Later (or Dismiss if you don't 
+want to se this message again), another message should pop up.
+Click FRESH INSTALL! Once install is done, click force close
+and re-open kodi afterwards and you're good to go.
+For old users: Go to update to check if new version has arived.
+(also you will get a little auto notis when new update is available)
+If you have made some custom changes; chose Standard install.
+Otherwise chose Fresh Install.
+
+First Time Users! (authorize Trakt)
+You will be asked to authorize trakt from both Track and Elementum.
+First if you dont have a trakt account.. go to trakt.tv and make one now!
+You will also need to go in to one movie then go to settings
+and choose OpenMeta There you will go to Trakt and chose authorize.
+When you have authorized ALL 3 addons you are good to go.
+(all your settings will be saved later if and when you update yoyr system)
+!!!IF YOU ALLREADY HAVE A TRAKT ACCOUNT!!! (!First Time Users ONLY!) 
+Then you have to make shure to authorize Trakt Addon LAST!!!
+(or else you risk losing your whole collection) YIKES!
+
+First Time Users! (Enable VPN)
+Go to Addons -> My Addons -> Programs -> VPN manager for openvpn
+And Enable the addon. a pop up will apear and ask you a question.
+Chose Wizard, and put in your credentials and follow the wizard.
+Voulá, Your done! Go to Power and pres upp to find VPN and check your conection ect.
+
+For more HELP with anithing, please contact your nearest muffin ;P
+
+Changelog...
+So many updates that i cant keep track... but main ones are:
+*Wizard! :) (now you can update from home, and make your own backups!)
+*New play alternatives and providers!
+*New Favorite Category
+*Leia 18.1
+*Minor Addon Updates, tweaks and fixes.
+
+Future Updates
+*New Anime Providers
+*Yet More Providers
+*Smart YouTube Playlists (maby costumable)
+*More LiveTV
+*New "Noflix" Look (maby you can be able to choose betwene two or more skins)
+*Steamlining, tweaks and fixes... (mostly "under the hood")
+*Requests (listening)
+
+Have a super duper day!
+Kisses and Hugs![/COLOR]
+
+[COLOR pink]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
                                                                                                                                                                            
                                                                                                                                                                            
                                                                                                                                                                            
@@ -174,69 +236,3 @@
                                                                                                                                                                            
 
 [/COLOR]
-[COLOR lime]
-____ ____ _  _ ____    _  _ _  _ ____ ____ _ . _  _    _  _ ___  ___  ____ ___ ____ 
-[__  |  | |\/| |___    |\/| |  | |___ |___ | ' |\ |    |  | |__] |  \ |__|  |  |___ 
-___] |__| |  | |___    |  | |__| |    |    |   | \|    |__| |    |__/ |  |  |  |___ 
-                                                                                    
-_  _ ____ ___ _ ____ _ ____ ____ ___ _ ____ _  _ ____                               
-|\ | |  |  |  | |___ | |    |__|  |  | |  | |\ | [__                                
-| \| |__|  |  | |    | |___ |  |  |  | |__| | \| ___] ... 
-[/COLOR]
-[COLOR dodgerblue]
-Hello World! All update informations will be published here!
-((To see this message again restar your system) DON'T push Dismiss!)
-This is the "first" muffi'n Build, so nothing new now... 
-Have some projects going on... maby you can suspet someting new in a few weeks or so..
-(but dont feel that you have yo update your system)
-(if its not wrtten out here with CAPITAL letters that you should) 
-Look at the bottom of this message for INFO on whats coming in future updates! :)
-
-Install info........
-For new users: Click Remind Me Later (or Dismiss if you don't 
-want to se this message again), another message should pop up.
-Click FRESH INSTALL! Once install is done, click force close
-and re-open kodi afterwards and you're good to go.
-For old users: Go to update to check if new version has arived.
-(also you will get a little auto notis when new update is available)
-If you have made some custom changes; chose Standard install.
-Otherwise chose Fresh Install.
-
-First Time Users! (authorize Trakt)
-You will be asked to authorize trakt from both Track and Elementum.
-First if you dont have a trakt account.. go to trakt.tv and make one now!
-You will also need to go in to one movie then go to settings
-and choose OpenMeta There you will go to Trakt and chose authorize.
-When you have authorized ALL 3 addons you are good to go.
-(all your settings will be saved later if and when you update yoyr system)
-!!!IF YOU ALLREADY HAVE A TRAKT ACCOUNT!!! (!First Time Users ONLY!) 
-Then you have to make shure to authorize Trakt Addon LAST!!!
-(or else you risk losing your whole collection) YIKES!
-
-First Time Users! (Enable VPN)
-Go to Addons -> My Addons -> Programs -> VPN manager for openvpn
-And Enable the addon. a pop up will apear and ask you a question.
-Chose Wizard, and put in your credentials and follow the wizard.
-Voulá, Your done! Go to Power and pres upp to find VPN and check your conection ect.
-
-For more HELP with anithing, please contact your nearest muffin ;P
-
-Changelog...
-So many updates that i cant keep track... but main ones are:
-*Wizard! :) (now you can update from home, and make your own backups!)
-*New play alternatives and providers!
-*New Favorite Category
-*Leia 18.1
-*Minor Addon Updates, tweaks and fixes.
-
-Future Updates
-*New Anime Providers
-*Yet More Providers
-*Smart YouTube Playlists (maby costumable)
-*More LiveTV
-*New "Noflix" Look (maby you can be able to choose betwene two or more skins)
-*Steamlining, tweaks and fixes... (mostly "under the hood")
-*Requests (listening)
-
-Have a super duper day!
-Kisses and Hugs![/COLOR]
