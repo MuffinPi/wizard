@@ -1,24 +1,20 @@
 1
 |||
+[COLOR lime]
+  ____                         __  __        __  __ _ _                                      
+ / ___|  ___  _ __ ___   ___  |  \/  |_   _ / _|/ _(_| )_ __                                 
+ \___ \ / _ \| '_ ` _ \ / _ \ | |\/| | | | | |_| |_| |/| '_ \                                
+  ___) | (_) | | | | | |  __/ | |  | | |_| |  _|  _| | | | | |                               
+ |____/ \___/|_| |_| |_|\___| |_|  |_|\__,_|_| |_| |_| |_| |_|                               
+  _   _           _       _          _   _       _   _  __ _           _   _                 
+ | | | |_ __   __| | __ _| |_ ___   | \ | | ___ | |_(_)/ _(_) ___ __ _| |_(_) ___  _ __  ___ 
+ | | | | '_ \ / _` |/ _` | __/ _ \  |  \| |/ _ \| __| | |_| |/ __/ _` | __| |/ _ \| '_ \/ __|
+ | |_| | |_) | (_| | (_| | ||  __/  | |\  | (_) | |_| |  _| | (_| (_| | |_| | (_) | | | \__ \
+  \___/| .__/ \__,_|\__,_|\__\___|  |_| \_|\___/ \__|_|_| |_|\___\__,_|\__|_|\___/|_| |_|___/
+       |_|   
+
+[/COLOR]
 [COLOR dodgerblue]
-MMMMMMMM               MMMMMMMM                     ffffffffffffffff    ffffffffffffffff    iiii                   PPPPPPPPPPPPPPPPP     iiii  
-M:::::::M             M:::::::M                    f::::::::::::::::f  f::::::::::::::::f  i::::i                  P::::::::::::::::P   i::::i 
-M::::::::M           M::::::::M                   f::::::::::::::::::ff::::::::::::::::::f  iiii                   P::::::PPPPPP:::::P   iiii  
-M:::::::::M         M:::::::::M                   f::::::fffffff:::::ff::::::fffffff:::::f                         PP:::::P     P:::::P        
-M::::::::::M       M::::::::::Muuuuuu    uuuuuu   f:::::f       fffffff:::::f       ffffffiiiiiiinnnn  nnnnnnnn      P::::P     P:::::Piiiiiii 
-M:::::::::::M     M:::::::::::Mu::::u    u::::u   f:::::f             f:::::f             i:::::in:::nn::::::::nn    P::::P     P:::::Pi:::::i 
-M:::::::M::::M   M::::M:::::::Mu::::u    u::::u  f:::::::ffffff      f:::::::ffffff        i::::in::::::::::::::nn   P::::PPPPPP:::::P  i::::i 
-M::::::M M::::M M::::M M::::::Mu::::u    u::::u  f::::::::::::f      f::::::::::::f        i::::inn:::::::::::::::n  P:::::::::::::PP   i::::i 
-M::::::M  M::::M::::M  M::::::Mu::::u    u::::u  f::::::::::::f      f::::::::::::f        i::::i  n:::::nnnn:::::n  P::::PPPPPPPPP     i::::i 
-M::::::M   M:::::::M   M::::::Mu::::u    u::::u  f:::::::ffffff      f:::::::ffffff        i::::i  n::::n    n::::n  P::::P             i::::i 
-M::::::M    M:::::M    M::::::Mu::::u    u::::u   f:::::f             f:::::f              i::::i  n::::n    n::::n  P::::P             i::::i 
-M::::::M     MMMMM     M::::::Mu:::::uuuu:::::u   f:::::f             f:::::f              i::::i  n::::n    n::::n  P::::P             i::::i 
-M::::::M               M::::::Mu:::::::::::::::uuf:::::::f           f:::::::f            i::::::i n::::n    n::::nPP::::::PP          i::::::i
-M::::::M               M::::::M u:::::::::::::::uf:::::::f           f:::::::f            i::::::i n::::n    n::::nP::::::::P          i::::::i
-M::::::M               M::::::M  uu::::::::uu:::uf:::::::f           f:::::::f            i::::::i n::::n    n::::nP::::::::P          i::::::i
-MMMMMMMM               MMMMMMMM    uuuuuuuu  uuuufffffffff           fffffffff            iiiiiiii nnnnnn    nnnnnnPPPPPPPPPP          iiiiiiii
-
-
 Hello World! All update informations will be published here!
 ((To see this message again restar your system) DON'T push Dismiss!)
 This is the "first" muffi'n Build, so nothing new now... 
