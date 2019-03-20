@@ -29,7 +29,7 @@
                                        |_|                        
 Hello World! All update informations will be published here!
 ((To see this message again restar your system) DON'T push Dismiss!)
-MuffinPi HAVE NOTHING! to do with CONTENT FOUND on ADDONS (MuffinPI have no conection to 
+MuffinPi HAVE NOTHING! to do with CONTENT FOUND on ADDONS (Read disclaimer down bellow)
 This is the "first" muffi'n Build, so nothing new now... 
 Have some projects going on... maby you can suspet someting new in a few weeks or so..
 (but dont feel that you have yo update your system)
@@ -84,6 +84,10 @@ Future Updates
 
 Have a super duper day!
 Kisses and Hugs![/COLOR]
+
+[COLOR gold]
+The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon. The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation. This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works
+[/COLOR]
 
 [COLOR deeppink]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
