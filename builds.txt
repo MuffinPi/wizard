@@ -1,4 +1,4 @@
-name="[B][COLOR yellow]P[/COLOR][COLOR lime]i[/COLOR][COLOR deepskyblue]B[/COLOR][COLOR blueviolet]o[/COLOR][COLOR red]X[/COLOR][/B]"
+name="dickface"
 version="2.6"
 url="https://www.dropbox.com/s/owqlzq6h2qi2cax/NEW.zip?dl=1"
 minor="http://"
