@@ -1,7 +1,7 @@
 1
 |||
-                                          Welcome to [COLOR deeppink]Muffin[/COLOR][COLOR lime]Wizard[/COLOR] home of [COLOR yellow]P[/COLOR][COLOR lime]i[/COLOR][COLOR deepskyblue]B[/COLOR][COLOR indigo]o[/COLOR][COLOR red]X[/COLOR] Current Version... [COLOR yellow]2.6[/COLOR]
-[COLOR lime]                                              If this looks                             
+                                          Welcome to [COLOR deeppink]Muffin[/COLOR][COLOR lime]Wizard[/COLOR] home of [COLOR yellow]P[/COLOR][COLOR lime]i[/COLOR][COLOR deepskyblue]B[/COLOR][COLOR indigo]o[/COLOR][COLOR red]X[/COLOR] Current Version... [COLOR yellow]2.6[/COLOR][COLOR lime]             
+                                                          If this looks                             
                                                                           weired.....
       ,'``.._   ,'``.                                                                 Go Eat a Muffin and see the Wizard!
      :,--._:)\,:,._,.:                 All Glory to
@@ -23,17 +23,19 @@
       |/`.\`'        ,','); 
           `         (/  (/         
 "I am the slime from your video, Can't stop the slime, people, lookit me go" -zappa[/COLOR][COLOR dodgerblue]
- __    __     __  __     ______   ______   __     __   __        __  __     ______   _____     ______     ______   ______       
-/\ "-./  \   /\ \/\ \   /\  ___\ /\  ___\ /\ \   /\ "-.\ \      /\ \/\ \   /\  == \ /\  __-.  /\  __ \   /\__  _\ /\  ___\      
-\ \ \-./\ \  \ \ \_\ \  \ \  __\ \ \  __\ \ \ \  \ \ \-.  \     \ \ \_\ \  \ \  _-/ \ \ \/\ \ \ \  __ \  \/_/\ \/ \ \  __\      
- \ \_\ \ \_\  \ \_____\  \ \_\    \ \_\    \ \_\  \ \_\\"\_\     \ \_____\  \ \_\    \ \____-  \ \_\ \_\    \ \_\  \ \_____\    
-  \/_/  \/_/   \/_____/   \/_/     \/_/     \/_/   \/_/ \/_/      \/_____/   \/_/     \/____/   \/_/\/_/     \/_/   \/_____/    
-                                                                                                                                
+
+ __    __     __  __     ______   ______   __     __   __        __  __     ______   _____     ______     ______   ______    
+/\ "-./  \   /\ \/\ \   /\  ___\ /\  ___\ /\ \   /\ "-.\ \      /\ \/\ \   /\  == \ /\  __-.  /\  __ \   /\__  _\ /\  ___\   
+\ \ \-./\ \  \ \ \_\ \  \ \  __\ \ \  __\ \ \ \  \ \ \-.  \     \ \ \_\ \  \ \  _-/ \ \ \/\ \ \ \  __ \  \/_/\ \/ \ \  __\   
+ \ \_\ \ \_\  \ \_____\  \ \_\    \ \_\    \ \_\  \ \_\\"\_\     \ \_____\  \ \_\    \ \____-  \ \_\ \_\    \ \_\  \ \_____\ 
+  \/_/  \/_/   \/_____/   \/_/     \/_/     \/_/   \/_/ \/_/      \/_____/   \/_/     \/____/   \/_/\/_/     \/_/   \/_____/                                                                                                                             
  __   __     ______     ______   __     ______   __     ______     ______     ______   __     ______     __   __     ______    
 /\ "-.\ \   /\  __ \   /\__  _\ /\ \   /\  ___\ /\ \   /\  ___\   /\  __ \   /\__  _\ /\ \   /\  __ \   /\ "-.\ \   /\  ___\   
-\ \ \-.  \  \ \ \/\ \  \/_/\ \/ \ \ \  \ \  __\ \ \ \  \ \ \____  \ \  __ \  \/_/\ \/ \ \ \  \ \ \/\ \  \ \ \-.  \  \ \___  \    __   __   __
- \ \_\\"\_\  \ \_____\    \ \_\  \ \_\  \ \_\    \ \_\  \ \_____\  \ \_\ \_\    \ \_\  \ \_\  \ \_____\  \ \_\\"\_\  \/\_____\  /\_\ /\_\ /\_\ 
-  \/_/ \/_/   \/_____/     \/_/   \/_/   \/_/     \/_/   \/_____/   \/_/\/_/     \/_/   \/_/   \/_____/   \/_/ \/_/   \/_____/  \/_/ \/_/ \/_/                                                                                                                                                                                                                                                                                                                                                                                              
+\ \ \-.  \  \ \ \/\ \  \/_/\ \/ \ \ \  \ \  __\ \ \ \  \ \ \____  \ \  __ \  \/_/\ \/ \ \ \  \ \ \/\ \  \ \ \-.  \  \ \___  \  
+ \ \_\\"\_\  \ \_____\    \ \_\  \ \_\  \ \_\    \ \_\  \ \_____\  \ \_\ \_\    \ \_\  \ \_\  \ \_____\  \ \_\\"\_\  \/\_____\ 
+  \/_/ \/_/   \/_____/     \/_/   \/_/   \/_/     \/_/   \/_____/   \/_/\/_/     \/_/   \/_/   \/_____/   \/_/ \/_/   \/_____/ 
+
+
 Hello World! All update informations will be published here!
 ((To see this message again restar your system) DON'T push Dismiss!)
 MuffinPi HAVE NOTHING! to do with CONTENT FOUND on ADDONS (Read disclaimer down bellow)
@@ -149,8 +151,8 @@ M::::::M               M::::::Mu:::::::::::::::uuf:::::::f           f:::::::f  
 M::::::M               M::::::M u:::::::::::::::uf:::::::f           f:::::::f            i::::::i         n::::n    n::::n
 M::::::M               M::::::M  uu::::::::uu:::uf:::::::f           f:::::::f            i::::::i         n::::n    n::::n
 MMMMMMMM               MMMMMMMM    uuuuuuuu  uuuufffffffff           fffffffff            iiiiiiii         nnnnnn    nnnnnn
-
 [/COLOR]
+
 [COLOR gold]
 The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon. The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation. This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works
 [/COLOR]
