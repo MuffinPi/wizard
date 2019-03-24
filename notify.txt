@@ -91,7 +91,7 @@ Have a super duper day!
 [/COLOR][COLOR yellow]  _|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|
 [/COLOR][COLOR green] (_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_ 
 [/COLOR][COLOR blue]   |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__|
-[/COLOR][COLOR purple]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/COLOR][COLOR palegreen]
+[/COLOR][COLOR purple]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/COLOR][COLOR mediumpurple]
 
 8888888                   888             888 888          888    d8b                        8888888           .d888             
   888                     888             888 888          888    Y8P                          888            d88P"              
@@ -126,7 +126,7 @@ And Enable the addon. a pop up will apear and ask you a question.
 Chose Wizard, and put in your credentials and follow the wizard.
 Voulá, Your done! Go to Power and pres upp to find VPN and check your conection ect.
 
-([COLOR red]!!!DISABLE!!![/COLOR] "Kiosk Mode" (in Settings>Skin>Meliscious) If you want to Costumize your Setup)
+(Notis! You have to [COLOR red]!!!DISABLE!!![/COLOR] "Kiosk Mode" (in Settings>Skin>Meliscious) If you want to Costumize your Setup)
 
 For more HELP with anithing, please contact your nearest muffin ;P
 [/COLOR][COLOR red]      _        _        _        _        _        _        _        _        _        _        _        _        _        _    
