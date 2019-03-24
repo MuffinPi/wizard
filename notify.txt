@@ -83,15 +83,19 @@ Go to Addons -> My Addons -> Programs -> VPN manager for openvpn
 And Enable the addon. a pop up will apear and ask you a question.
 Chose Wizard, and put in your credentials and follow the wizard.
 Voulá, Your done! Go to Power and pres upp to find VPN and check your conection ect.
-
+[/COLOR][COLOR red]
+(!!!DISABLE "Kiosk Mode" (in Settings>Skin>Meliscious) If you want to Costumize your Setup!!!)
+[/COLOR][COLOR dodgerblue]
 For more HELP with anithing, please contact your nearest muffin ;P
 
 Changelog...
 So many updates that i cant keep track... but main ones are:
-*Wizard! :) (now you can update from home, and make your own backups!)
+*Repo! :) (search through and install other Repo's (install Addons and Costmize your Setup!)
+*Wizard! :) (now you can Update from home, make your own Backups and Restore!)
 *New play alternatives and providers!
 *New Favorite Category
 *Leia 18.1
+*Kiosk Mode (!Disabel if you want to Costumize your Setup!)
 *Minor Addon Updates, tweaks and fixes.
 
 Future Updates
@@ -99,6 +103,7 @@ Future Updates
 *Yet More Providers
 *Smart YouTube Playlists (maby costumable)
 *More LiveTV
+*"Muffi'n Unified Suite" (unified addons for your comfort:)
 *New "Noflix" Look (maby you can be able to choose betwene two or more skins)
 *Steamlining, tweaks and fixes... (mostly "under the hood")
 *Requests (listening)
