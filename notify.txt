@@ -43,11 +43,11 @@ Have some projects going on... maby you can suspet someting new in a few weeks o
 (but dont feel that you have yo update your system)
 (if its not wrtten out here with CAPITAL letters that you should) 
 Look at the bottom of this message for INFO on whats coming in future updates! :)
-[/COLOR]
+[/COLOR]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 [COLOR yellow]P[/COLOR][COLOR lime]i[/COLOR][COLOR deepskyblue]B[/COLOR][COLOR indigo]o[/COLOR][COLOR red]X[/COLOR] [COLOR yellow]3.0[/COLOR] is Coming WERY soon! (so keep yourself updated;)
 Hahaha, wow, what a ride! jet, so much tweaks and changes "under the hood" (so you wont notice much;)
 Probably what you could notice is a sleaker, faster and more automated system.
-Also this little text... Lol...
+Also this little text... (more work than one thinks) Lol...
 Two new features that are Exiting is.. *YouTubeLibrary and *YourLikedTraktList
 *Now you can add other Traktusers lists to your setup :D (maby you will also se "Trakt" or "Me" in Head Menu)
 *Now you can add your favorite youtubechannels to easyly find them throug "Web"(Will probably also apear a dedicated widget)
@@ -56,6 +56,7 @@ All requests are welcome! 3.0 will be the first truly unified muffinpibox. and m
 When all the frames and little details are finaly done we will call it final, hopefully that will hapend inbetwen version [COLOR yellow]3.0[/COLOR] and [COLOR yellow]4.0[/COLOR].
 We will alwas grow and change with time, so nothing is ever relay final, right? haha.. 
 But know that your not gona be left in the water!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 [COLOR dodgerblue]
 Changelog...
 So many updates that i cant keep track... but main ones are:
@@ -67,7 +68,7 @@ So many updates that i cant keep track... but main ones are:
 *Kiosk Mode (!Disabel if you want to Costumize your Setup!)
 *Minor Addon Updates, tweaks and fixes.
 
-Future Updates
+Future Updates...
 *New Anime Providers
 *Yet More Providers
 *Smart YouTube Playlists (maby costumable)
@@ -93,16 +94,15 @@ Kisses and Hugs!
   | || '_ \/ __| __|/ _` | | |/ _` | __| |/ _ \| '_ \  | | '_ \| |_ / _ \       
   | || | | \__ \ |_| (_| | | | (_| | |_| | (_) | | | | | | | | |  _| (_) |_ _ _ 
  |___|_| |_|___/\__|\__,_|_|_|\__,_|\__|_|\___/|_| |_| |_|_| |_|_|  \___/(_|_|_)
-For new users: Click Remind Me Later (or Dismiss if you don't 
-want to se this message again), another message should pop up.
-Click FRESH INSTALL! Once install is done, click force close
-and re-open kodi afterwards and you're good to go.
-For old users: Go to update to check if new version has arived.
-(also you will get a little auto notis when new update is available)
-If you have made some custom changes; chose Standard install.
-Otherwise chose Fresh Install.
 
-First Time Users! (authorize Trakt)
+For New Users: Click Remind Me Later (or Dismiss if you don't want to se this message again), another message should pop up.
+Now click FRESH INSTALL! Once install is done, click force close and re-open kodi, afterwards and you're good to go.
+
+For Old Users: Update notie will apear when new build is released :)
+You can also (in menu) go to Power>Update, to check for new versions.
+If you have made some custom changes; chose "Standard install", otherwise chose "Fresh Install".
+
+First Time Users ONLY! (authorize Trakt)
 You will be asked to authorize trakt from both Track and Elementum.
 First if you dont have a trakt account.. go to trakt.tv and make one now!
 You will also need to go in to one movie then go to settings
@@ -113,14 +113,14 @@ When you have authorized ALL 3 addons you are good to go.
 Then you have to make shure to authorize Trakt Addon LAST!!!
 (or else you risk losing your whole collection) YIKES!
 
-First Time Users! (Enable VPN)
+First Time Users ONLY! (Enable VPN)
 Go to Addons -> My Addons -> Programs -> VPN manager for openvpn
 And Enable the addon. a pop up will apear and ask you a question.
 Chose Wizard, and put in your credentials and follow the wizard.
 Voulá, Your done! Go to Power and pres upp to find VPN and check your conection ect.
 [/COLOR][COLOR red]
 (!!!DISABLE "Kiosk Mode" (in Settings>Skin>Meliscious) If you want to Costumize your Setup!!!)
-[/COLOR][COLOR dodgerblue]
+[/COLOR][COLOR palegreen]
 For more HELP with anithing, please contact your nearest muffin ;P
      _        _        _        _        _        _        _        _        _        _        _        _        _        _    
    _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__ 
