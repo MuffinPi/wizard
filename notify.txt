@@ -45,7 +45,7 @@ Have some projects going on... maby you can suspet someting new in a few weeks o
 Look at the bottom of this message for INFO on whats coming in future updates! :)
 [/COLOR][COLOR mediumpurple]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-[/COLOR][COLOR yellow]P[/COLOR][COLOR lime]i[/COLOR][COLOR deepskyblue]B[/COLOR][COLOR indigo]o[/COLOR][COLOR red]X[/COLOR] [COLOR yellow]3.0[/COLOR] is Coming WERY soon! (so keep yourself updated;)
+[COLOR yellow]P[/COLOR][COLOR lime]i[/COLOR][COLOR deepskyblue]B[/COLOR][COLOR indigo]o[/COLOR][COLOR red]X[/COLOR] [COLOR yellow]3.0[/COLOR] is Coming WERY soon! (so keep yourself updated;)
 Hahaha, wow, what a ride! jet, so much tweaks and changes "under the hood" (so you wont notice much;)
 Probably what you could notice is a sleaker, faster and more automated system.
 Also this little text... (more work than one thinks) Lol...
@@ -102,14 +102,14 @@ Have a super duper day!
   888   888  888      X88 Y88b.  888  888 888 888 888  888 Y88b.  888 Y88..88P 888  888        888   888  888 888   Y88..88P d8b 
 8888888 888  888  88888P'  "Y888 "Y888888 888 888 "Y888888  "Y888 888  "Y88P"  888  888      8888888 888  888 888    "Y88P"  Y8P 
 
-For [/COLOR][COLOR red]N[/COLOR][COLOR orange]e[/COLOR][COLOR yellow]w[/COLOR] [COLOR lime]U[/COLOR][COLOR green]s[/COLOR][COLOR blue]e[/COLOR][COLOR indigo]r[/COLOR][COLOR purple]s[/COLOR][COLOR palegreen]: Click Remind Me Later (or Dismiss if you don't want to se this message again), another message should pop up.
+For [COLOR red]N[/COLOR][COLOR orange]e[/COLOR][COLOR yellow]w[/COLOR] [COLOR lime]U[/COLOR][COLOR green]s[/COLOR][COLOR blue]e[/COLOR][COLOR indigo]r[/COLOR][COLOR purple]s[/COLOR]: Click Remind Me Later (or Dismiss if you don't want to se this message again), another message should pop up.
 Now click FRESH INSTALL! Once install is done, click force close and re-open kodi, afterwards and you're good to go.
 
-For [/COLOR][COLOR red]O[/COLOR][COLOR orange]l[/COLOR][COLOR yellow]d[/COLOR] [COLOR lime]U[/COLOR][COLOR green]s[/COLOR][COLOR blue]e[/COLOR][COLOR indigo]r[/COLOR][COLOR purple]s[/COLOR][COLOR palegreen]: Update notie will apear when new build is released :)
+For [COLOR red]O[/COLOR][COLOR orange]l[/COLOR][COLOR yellow]d[/COLOR] [COLOR lime]U[/COLOR][COLOR green]s[/COLOR][COLOR blue]e[/COLOR][COLOR indigo]r[/COLOR][COLOR purple]s[/COLOR]: Update notie will apear when new build is released :)
 You can also (in menu) go to Power>Update, to check for new versions.
 If you have made some custom changes; chose "Standard install", otherwise chose "Fresh Install".
 
-[/COLOR][COLOR yellow]First Time Users ONLY![/COLOR][COLOR palegreen] (authorize Trakt)
+[COLOR yellow]First Time Users ONLY! (authorize Trakt)
 You will be asked to authorize trakt from both Track and Elementum.
 First if you dont have a trakt account.. go to trakt.tv and make one now!
 You will also need to go in to one movie then go to settings
@@ -120,13 +120,13 @@ When you have authorized ALL 3 addons you are good to go.
 Then you have to make shure to authorize Trakt Addon LAST!!!
 (or else you risk losing your whole collection) YIKES!
 
-[/COLOR][COLOR yellow]First Time Users ONLY![/COLOR][COLOR palegreen] (Enable VPN)
+[COLOR yellow]First Time Users ONLY![/COLOR] (Enable VPN)
 Go to Addons -> My Addons -> Programs -> VPN manager for openvpn
 And Enable the addon. a pop up will apear and ask you a question.
 Chose Wizard, and put in your credentials and follow the wizard.
 Voulá, Your done! Go to Power and pres upp to find VPN and check your conection ect.
 
-([/COLOR][COLOR red]!!!DISABLE!!![/COLOR][COLOR palegreen] "Kiosk Mode" (in Settings>Skin>Meliscious) If you want to Costumize your Setup)
+([COLOR red]!!!DISABLE!!![/COLOR] "Kiosk Mode" (in Settings>Skin>Meliscious) If you want to Costumize your Setup)
 
 For more HELP with anithing, please contact your nearest muffin ;P
 [/COLOR][COLOR red]      _        _        _        _        _        _        _        _        _        _        _        _        _        _    
