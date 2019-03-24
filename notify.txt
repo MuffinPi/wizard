@@ -21,8 +21,8 @@
     `-. `.`.``-----``--,  .'
       |/`.\`'        ,','); 
           `         (/  (/         
-"I am the slime from your video, Can't stop the slime, people, lookit me go" -zappa[/COLOR]
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[COLOR dodgerblue]
+"I am the slime from your video, Can't stop the slime, people, lookit me go" -zappa
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/COLOR][COLOR dodgerblue]
  __    __     __  __     ______   ______   __     __   __        __  __     ______   _____     ______     ______   ______    
 /\ "-./  \   /\ \/\ \   /\  ___\ /\  ___\ /\ \   /\ "-.\ \      /\ \/\ \   /\  == \ /\  __-.  /\  __ \   /\__  _\ /\  ___\   
 \ \ \-./\ \  \ \ \_\ \  \ \  __\ \ \  __\ \ \ \  \ \ \-.  \     \ \ \_\ \  \ \  _-/ \ \ \/\ \ \ \  __ \  \/_/\ \/ \ \  __\   
@@ -44,7 +44,7 @@ Have some projects going on... maby you can suspet someting new in a few weeks o
 (if its not wrtten out here with CAPITAL letters that you should) 
 Look at the bottom of this message for INFO on whats coming in future updates! :)
 [/COLOR]
-[COLOR yellow]P[/COLOR][COLOR lime]i[/COLOR][COLOR deepskyblue]B[/COLOR][COLOR indigo]o[/COLOR][COLOR red]X[/COLOR] 3.0 is Coming wery soon! 
+[COLOR yellow]P[/COLOR][COLOR lime]i[/COLOR][COLOR deepskyblue]B[/COLOR][COLOR indigo]o[/COLOR][COLOR red]X[/COLOR] [COLOR yellow]3.0[/COLOR] is Coming WERY soon! (so keep yourself updated;)
 Hahaha, wow, what a ride! jet, so much tweaks and changes "under the hood" (so you wont notice much;)
 Probably what you could notice is a sleaker, faster and more automated system.
 Two new features that are Exiting is.. *YouTubeLibrary and *YourLikedTraktList
@@ -56,8 +56,42 @@ When all the frames and little details are finaly done we will call it final, ho
 We will alwas grow and change with time, so nothing is ever relay final, right? haha.. 
 But know that your not gona be left in the water!
 
+Changelog...
+So many updates that i cant keep track... but main ones are:
+*Repo! :) (search through and install other Repo's (install Addons and Costmize your Setup!)
+*Wizard! :) (now you can Update from home, make your own Backups and Restore!)
+*New play alternatives and providers!
+*New Favorite Category
+*Leia 18.1
+*Kiosk Mode (!Disabel if you want to Costumize your Setup!)
+*Minor Addon Updates, tweaks and fixes.
+
+Future Updates
+*New Anime Providers
+*Yet More Providers
+*Smart YouTube Playlists (maby costumable)
+*More LiveTV
+*"Muffi'n Unified Suite" (unified addons for your comfort:)
+*New "Noflix" Look (maby you can be able to choose betwene two or more skins)
+*Steamlining, tweaks and fixes... (mostly "under the hood")
+*Requests (listening)
+
+Have a super duper day!
+Kisses and Hugs!
+     _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _  
+   /\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\
+   \/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/
 [COLOR dodgerblue]
-Install info........
+     _        _        _        _        _        _        _        _        _        _        _        _        _    
+   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__ 
+ _|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|
+(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_ 
+  |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__|
+  ___           _         _ _       _   _               _        __             
+ |_ _|_ __  ___| |_  __ _| | | __ _| |_(_) ___  _ __   (_)_ __  / _| ___        
+  | || '_ \/ __| __|/ _` | | |/ _` | __| |/ _ \| '_ \  | | '_ \| |_ / _ \       
+  | || | | \__ \ |_| (_| | | | (_| | |_| | (_) | | | | | | | | |  _| (_) |_ _ _ 
+ |___|_| |_|___/\__|\__,_|_|_|\__,_|\__|_|\___/|_| |_| |_|_| |_|_|  \___/(_|_|_)
 For new users: Click Remind Me Later (or Dismiss if you don't 
 want to se this message again), another message should pop up.
 Click FRESH INSTALL! Once install is done, click force close
@@ -87,32 +121,11 @@ Voulá, Your done! Go to Power and pres upp to find VPN and check your conection
 (!!!DISABLE "Kiosk Mode" (in Settings>Skin>Meliscious) If you want to Costumize your Setup!!!)
 [/COLOR][COLOR dodgerblue]
 For more HELP with anithing, please contact your nearest muffin ;P
-
-Changelog...
-So many updates that i cant keep track... but main ones are:
-*Repo! :) (search through and install other Repo's (install Addons and Costmize your Setup!)
-*Wizard! :) (now you can Update from home, make your own Backups and Restore!)
-*New play alternatives and providers!
-*New Favorite Category
-*Leia 18.1
-*Kiosk Mode (!Disabel if you want to Costumize your Setup!)
-*Minor Addon Updates, tweaks and fixes.
-
-Future Updates
-*New Anime Providers
-*Yet More Providers
-*Smart YouTube Playlists (maby costumable)
-*More LiveTV
-*"Muffi'n Unified Suite" (unified addons for your comfort:)
-*New "Noflix" Look (maby you can be able to choose betwene two or more skins)
-*Steamlining, tweaks and fixes... (mostly "under the hood")
-*Requests (listening)
-
-Have a super duper day!
-Kisses and Hugs!
-     _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _  
-   /\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\
-   \/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/
+     _        _        _        _        _        _        _        _        _        _        _        _        _    
+   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__ 
+ _|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|
+(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_ 
+  |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__|
 [/COLOR][COLOR deeppink]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
 TONZ of Love for all time and energy from all of you fire souls!
 Hat of to xbmc, a4k and the whole opensource comunity, U Rock!   
