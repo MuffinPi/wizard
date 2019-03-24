@@ -2,25 +2,25 @@
 |||
                                          *Welcome to [COLOR deeppink]Muffin[/COLOR][COLOR lime]Wizard[/COLOR] home of [COLOR yellow]P[/COLOR][COLOR lime]i[/COLOR][COLOR deepskyblue]B[/COLOR][COLOR indigo]o[/COLOR][COLOR red]X[/COLOR], Current Version... [COLOR yellow]2.6[/COLOR]*[COLOR lime]
              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-      ,'``.._   ,'``.                   
-     :,--._:)\,:,._,.:                 All Glory to
-     :`--,''   :`...';\                   the HYPNO TOAD!  ;)  ;) 
-      `,'       `---'  `.                                        
-      /                 :                                           
-     /                   \                                        
-   ,'                     :\.___,-.                     Don't forget to live and enjoy life
-  `...,---'``````-..._    |:       \
-    (                 )   ;:    )   \  _,-.              and take a break from the slime!
-     `.              (   //          `'    \
-      :               `.//  )      )     , ;               hang with friends and family      
-    ,-|`.            _,'/       )    ) ,' ,'        
-   (  :`.`-..____..=:.-':     .     _,' ,'          be in nature, listen to music, read a book...
-    `,'\ ``--....-)='    `._,  \  ,') _ '``._
- _.-/ _ `.       (_)      /     )' ; / \ \`-.'                   Peace and love!
-`--(   `-:`.     `' ___..'  _,-'   |/   `.)
-    `-. `.`.``-----``--,  .'
-      |/`.\`'        ,','); 
-          `         (/  (/         
+[/COLOR][COLOR lime]      ,'``.._   ,'``.                   
+[/COLOR][COLOR green]     :,--._:)\,:,._,.:                 [/COLOR]All Glory to
+[/COLOR][COLOR blue]     :`--,''   :`...';\                   [/COLOR]the HYPNO TOAD!  ;)  ;) 
+[/COLOR][COLOR indigo]      `,'       `---'  `.                                        
+[/COLOR][COLOR purple]      /                 :                                           
+[/COLOR][COLOR deeppink]     /                   \                                        
+[/COLOR][COLOR red]   ,'                     :\.___,-.                     [/COLOR]Don't forget to live and enjoy life
+[/COLOR][COLOR orangered]  `...,---'``````-..._    |:       \
+[/COLOR][COLOR orange]    (                 )   ;:    )   \  _,-.              [/COLOR]and take a break from the slime!
+[/COLOR][COLOR yellow]     `.              (   //          `'    \
+[/COLOR][COLOR lime]      :               `.//  )      )     , ;               [/COLOR]hang with friends and family      
+[/COLOR][COLOR green]    ,-|`.            _,'/       )    ) ,' ,'        
+[/COLOR][COLOR blue]   (  :`.`-..____..=:.-':     .     _,' ,'          [/COLOR]be in nature, listen to music, read a book...
+[/COLOR][COLOR indigo]    `,'\ ``--....-)='    `._,  \  ,') _ '``._
+[/COLOR][COLOR purple] _.-/ _ `.       (_)      /     )' ; / \ \`-.'                   [/COLOR]Peace and love!
+[/COLOR][COLOR red]`--(   `-:`.     `' ___..'  _,-'   |/   `.)
+[/COLOR][COLOR orangered]    `-. `.`.``-----``--,  .'
+[/COLOR][COLOR yellow]      |/`.\`'        ,','); 
+[/COLOR][COLOR lime]          `         (/  (/         
 "I am the slime from your video, Can't stop the slime, people, lookit me go" -zappa
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/COLOR][COLOR dodgerblue]
  __    __     __  __     ______   ______   __     __   __        __  __     ______   _____     ______     ______   ______    
@@ -109,7 +109,7 @@ For [COLOR red]O[/COLOR][COLOR orange]l[/COLOR][COLOR yellow]d[/COLOR] [COLOR li
 You can also (in menu) go to Power>Update, to check for new versions.
 If you have made some custom changes; chose "Standard install", otherwise chose "Fresh Install".
 
-[COLOR yellow]First Time Users ONLY! (authorize Trakt)
+[COLOR yellow]First Time Users ONLY![/COLOR] (authorize Trakt)
 You will be asked to authorize trakt from both Track and Elementum.
 First if you dont have a trakt account.. go to trakt.tv and make one now!
 You will also need to go in to one movie then go to settings
