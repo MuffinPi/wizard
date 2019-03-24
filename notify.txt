@@ -3,20 +3,20 @@
                                          *Welcome to [COLOR deeppink]Muffin[/COLOR][COLOR lime]Wizard[/COLOR] home of [COLOR yellow]P[/COLOR][COLOR lime]i[/COLOR][COLOR deepskyblue]B[/COLOR][COLOR indigo]o[/COLOR][COLOR red]X[/COLOR], Current Version... [COLOR yellow]2.6[/COLOR]*[COLOR lime]
              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 [COLOR green]      ,'``.._   ,'``.                   
-[COLOR blue]     :,--._:)\,:,._,.:                 All Glory to
-[COLOR indigo]     :`--,''   :`...';\                   the HYPNO TOAD!  ;)  ;) 
+[COLOR blue]     :,--._:)\,:,._,.:                 [/COLOR][COLOR lime]All Glory to
+[COLOR indigo]     :`--,''   :`...';\                   [/COLOR][COLOR lime]the HYPNO TOAD!  ;)  ;) 
 [COLOR purple]      `,'       `---'  `.                                        
 [COLOR deeppink]      /                 :                                           
 [COLOR red]     /                   \                                        
-[COLOR orangered]   ,'                     :\.___,-.                     Don't forget to live and enjoy life
+[COLOR orangered]   ,'                     :\.___,-.                     [/COLOR][COLOR lime]Don't forget to live and enjoy life
 [COLOR orange]  `...,---'``````-..._    |:       \
-[COLOR yellow]    (                 )   ;:    )   \  _,-.              and take a break from the slime!
+[COLOR yellow]    (                 )   ;:    )   \  _,-.              [/COLOR][COLOR lime]and take a break from the slime!
 [COLOR lime]     `.              (   //          `'    \
-[COLOR yellow]      :               `.//  )      )     , ;               hang with friends and family      
+[COLOR yellow]      :               `.//  )      )     , ;               [/COLOR][COLOR lime]hang with friends and family      
 [COLOR orange]    ,-|`.            _,'/       )    ) ,' ,'        
-[COLOR orangered]   (  :`.`-..____..=:.-':     .     _,' ,'          be in nature, listen to music, read a book...
+[COLOR orangered]   (  :`.`-..____..=:.-':     .     _,' ,'          [/COLOR][COLOR lime]be in nature, listen to music, read a book...
 [COLOR red]    `,'\ ``--....-)='    `._,  \  ,') _ '``._
-[COLOR deeppink] _.-/ _ `.       (_)      /     )' ; / \ \`-.'                   Peace and love!
+[COLOR deeppink] _.-/ _ `.       (_)      /     )' ; / \ \`-.'                   [/COLOR][COLOR lime]Peace and love!
 [COLOR purple]`--(   `-:`.     `' ___..'  _,-'   |/   `.)
 [COLOR indigo]    `-. `.`.``-----``--,  .'
 [COLOR bule]      |/`.\`'        ,','); 
