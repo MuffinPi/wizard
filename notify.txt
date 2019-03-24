@@ -35,7 +35,7 @@
   \/_/ \/_/   \/_____/     \/_/   \/_/   \/_/     \/_/   \/_____/   \/_/\/_/     \/_/   \/_/   \/_____/   \/_/ \/_/   \/_____/ 
 
 
-Hello World! All update informations will be published here!
+Hello World! All update informations will be published here! (Look futher down for [/COLOR][COLOR red]"INSTALATON INFO"[/COLOR][COLOR dodgerblue])
 ((To see this message again restar your system) DON'T push Dismiss!)
 MuffinPi HAVE NOTHING! to do with CONTENT FOUND on ADDONS (Read disclaimer down bellow)
 This is the "first" muffi'n Build, so nothing new now... 
@@ -47,15 +47,16 @@ Look at the bottom of this message for INFO on whats coming in future updates! :
 [COLOR yellow]P[/COLOR][COLOR lime]i[/COLOR][COLOR deepskyblue]B[/COLOR][COLOR indigo]o[/COLOR][COLOR red]X[/COLOR] [COLOR yellow]3.0[/COLOR] is Coming WERY soon! (so keep yourself updated;)
 Hahaha, wow, what a ride! jet, so much tweaks and changes "under the hood" (so you wont notice much;)
 Probably what you could notice is a sleaker, faster and more automated system.
+Also this little text... Lol...
 Two new features that are Exiting is.. *YouTubeLibrary and *YourLikedTraktList
 *Now you can add other Traktusers lists to your setup :D (maby you will also se "Trakt" or "Me" in Head Menu)
 *Now you can add your favorite youtubechannels to easyly find them throug "Web"(Will probably also apear a dedicated widget)
 Pleas give me requests on YouTubeChannels that you would like to see in default list :)
 All requests are welcome! 3.0 will be the first truly unified muffinpibox. and more or less considerd a Final/Beta+ Version.
-When all the frames and little details are finaly done we will call it final, hopefully that will hapend inbetwen version 3 and 4.
+When all the frames and little details are finaly done we will call it final, hopefully that will hapend inbetwen version [COLOR yellow]3.0[/COLOR] and [COLOR yellow]4.0[/COLOR].
 We will alwas grow and change with time, so nothing is ever relay final, right? haha.. 
 But know that your not gona be left in the water!
-
+[COLOR dodgerblue]
 Changelog...
 So many updates that i cant keep track... but main ones are:
 *Repo! :) (search through and install other Repo's (install Addons and Costmize your Setup!)
@@ -81,12 +82,12 @@ Kisses and Hugs!
      _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _    _  
    /\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\
    \/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/
-[COLOR dodgerblue]
-     _        _        _        _        _        _        _        _        _        _        _        _        _    
-   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__ 
- _|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|
-(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_ 
-  |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__|
+[/COLOR][COLOR palegreen]
+     _        _        _        _        _        _        _        _        _        _        _        _        _        _    
+   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__ 
+ _|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|
+(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_ 
+  |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__|
   ___           _         _ _       _   _               _        __             
  |_ _|_ __  ___| |_  __ _| | | __ _| |_(_) ___  _ __   (_)_ __  / _| ___        
   | || '_ \/ __| __|/ _` | | |/ _` | __| |/ _ \| '_ \  | | '_ \| |_ / _ \       
@@ -121,11 +122,11 @@ Voulá, Your done! Go to Power and pres upp to find VPN and check your conection
 (!!!DISABLE "Kiosk Mode" (in Settings>Skin>Meliscious) If you want to Costumize your Setup!!!)
 [/COLOR][COLOR dodgerblue]
 For more HELP with anithing, please contact your nearest muffin ;P
-     _        _        _        _        _        _        _        _        _        _        _        _        _    
-   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__ 
- _|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|
-(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_ 
-  |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__|
+     _        _        _        _        _        _        _        _        _        _        _        _        _        _    
+   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__ 
+ _|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|
+(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_ 
+  |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__|
 [/COLOR][COLOR deeppink]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
 TONZ of Love for all time and energy from all of you fire souls!
 Hat of to xbmc, a4k and the whole opensource comunity, U Rock!   
