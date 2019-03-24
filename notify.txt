@@ -1,6 +1,6 @@
 1
 |||
-                                         Welcome to [COLOR deeppink]Muffin[/COLOR][COLOR lime]Wizard[/COLOR] home of [COLOR yellow]P[/COLOR][COLOR lime]i[/COLOR][COLOR deepskyblue]B[/COLOR][COLOR indigo]o[/COLOR][COLOR red]X[/COLOR] Current Version... [COLOR yellow]2.6[/COLOR][COLOR lime]
+                                         *Welcome to [COLOR deeppink]Muffin[/COLOR][COLOR lime]Wizard[/COLOR] home of [COLOR yellow]P[/COLOR][COLOR lime]i[/COLOR][COLOR deepskyblue]B[/COLOR][COLOR indigo]o[/COLOR][COLOR red]X[/COLOR] Current Version... [COLOR yellow]2.6[/COLOR][COLOR lime]*
              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
       ,'``.._   ,'``.                   
      :,--._:)\,:,._,.:                 All Glory to
@@ -34,7 +34,6 @@
  \ \_\\"\_\  \ \_____\    \ \_\  \ \_\  \ \_\    \ \_\  \ \_____\  \ \_\ \_\    \ \_\  \ \_\  \ \_____\  \ \_\\"\_\  \/\_____\ 
   \/_/ \/_/   \/_____/     \/_/   \/_/   \/_/     \/_/   \/_____/   \/_/\/_/     \/_/   \/_/   \/_____/   \/_/ \/_/   \/_____/ 
 
-
 Hello World! All update informations will be published here!
 (Look futher down for [/COLOR][COLOR red]"INSTALATON INFO"[/COLOR][COLOR dodgerblue])
 ((To see this message again restar your system) DON'T push Dismiss!)
@@ -44,7 +43,7 @@ Have some projects going on... maby you can suspet someting new in a few weeks o
 (but dont feel that you have yo update your system)
 (if its not wrtten out here with CAPITAL letters that you should) 
 Look at the bottom of this message for INFO on whats coming in future updates! :)
-[/COLOR]
+[/COLOR][COLOR lavender]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 [COLOR yellow]P[/COLOR][COLOR lime]i[/COLOR][COLOR deepskyblue]B[/COLOR][COLOR indigo]o[/COLOR][COLOR red]X[/COLOR] [COLOR yellow]3.0[/COLOR] is Coming WERY soon! (so keep yourself updated;)
 Hahaha, wow, what a ride! jet, so much tweaks and changes "under the hood" (so you wont notice much;)
@@ -58,7 +57,7 @@ All requests are welcome! 3.0 will be the first truly unified muffinpibox. and m
 When all the frames and little details are finaly done we will call it final, hopefully that will hapend inbetwen version [COLOR yellow]3.0[/COLOR] and [COLOR yellow]4.0[/COLOR].
 We will alwas grow and change with time, so nothing is ever relay final, right? haha.. 
 But know that your not gona be left in the water!
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/COLOR][COLOR dodgerblue]
 [COLOR dodgerblue]
 Changelog...
 So many updates that i cant keep track... but main ones are:
@@ -86,7 +85,6 @@ Kisses and Hugs!
    /\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\/\__\
    \/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/
 [/COLOR][COLOR palegreen]
-
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
      _        _        _        _        _        _        _        _        _        _        _        _        _        _    
@@ -137,6 +135,7 @@ For more HELP with anithing, please contact your nearest muffin ;P
   |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__|
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/COLOR][COLOR deeppink]
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 TONZ of Love for all time and energy from all of you fire souls!
 Hat of to xbmc, a4k and the whole opensource comunity, U Rock!   
 
@@ -179,7 +178,7 @@ M::::::M               M::::::Mu:::::::::::::::uuf:::::::f           f:::::::f  
 M::::::M               M::::::M u:::::::::::::::uf:::::::f           f:::::::f            i::::::i         n::::n    n::::n
 M::::::M               M::::::M  uu::::::::uu:::uf:::::::f           f:::::::f            i::::::i         n::::n    n::::n
 MMMMMMMM               MMMMMMMM    uuuuuuuu  uuuufffffffff           fffffffff            iiiiiiii         nnnnnn    nnnnnn
-[/COLOR]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ [/COLOR]
 [COLOR gold]
 The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon. The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation. This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works
 [/COLOR]
