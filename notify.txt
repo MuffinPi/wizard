@@ -86,7 +86,6 @@ Kisses and Hugs!
    \/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/\/__/
 [/COLOR][COLOR palegreen]
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
      _        _        _        _        _        _        _        _        _        _        _        _        _        _    
    _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__ 
  _|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|
@@ -122,12 +121,11 @@ Go to Addons -> My Addons -> Programs -> VPN manager for openvpn
 And Enable the addon. a pop up will apear and ask you a question.
 Chose Wizard, and put in your credentials and follow the wizard.
 Voulá, Your done! Go to Power and pres upp to find VPN and check your conection ect.
-[/COLOR][COLOR red]
-(!!!DISABLE "Kiosk Mode" (in Settings>Skin>Meliscious) If you want to Costumize your Setup!!!)
-[/COLOR][COLOR palegreen]
+
+([/COLOR][COLOR red]!!!DISABLE!!![/COLOR][COLOR palegreen] "Kiosk Mode" (in Settings>Skin>Meliscious) If you want to Costumize your Setup)
+
 For more HELP with anithing, please contact your nearest muffin ;P
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
      _        _        _        _        _        _        _        _        _        _        _        _        _        _    
    _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__   _( )__ 
  _|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|
@@ -135,7 +133,7 @@ For more HELP with anithing, please contact your nearest muffin ;P
   |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__|
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/COLOR][COLOR deeppink]
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
 TONZ of Love for all time and energy from all of you fire souls!
 Hat of to xbmc, a4k and the whole opensource comunity, U Rock!   
 
@@ -178,7 +176,8 @@ M::::::M               M::::::Mu:::::::::::::::uuf:::::::f           f:::::::f  
 M::::::M               M::::::M u:::::::::::::::uf:::::::f           f:::::::f            i::::::i         n::::n    n::::n
 M::::::M               M::::::M  uu::::::::uu:::uf:::::::f           f:::::::f            i::::::i         n::::n    n::::n
 MMMMMMMM               MMMMMMMM    uuuuuuuu  uuuufffffffff           fffffffff            iiiiiiii         nnnnnn    nnnnnn
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ [/COLOR]
-[COLOR gold]
-The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon. The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation. This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works
 [/COLOR]
+[COLOR gold]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon. The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation. This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/COLOR]
