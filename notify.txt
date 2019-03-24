@@ -21,8 +21,8 @@
     `-. `.`.``-----``--,  .'
       |/`.\`'        ,','); 
           `         (/  (/         
-"I am the slime from your video, Can't stop the slime, people, lookit me go" -zappa[/COLOR][COLOR dodgerblue]
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"I am the slime from your video, Can't stop the slime, people, lookit me go" -zappa[/COLOR]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[COLOR dodgerblue]
  __    __     __  __     ______   ______   __     __   __        __  __     ______   _____     ______     ______   ______    
 /\ "-./  \   /\ \/\ \   /\  ___\ /\  ___\ /\ \   /\ "-.\ \      /\ \/\ \   /\  == \ /\  __-.  /\  __ \   /\__  _\ /\  ___\   
 \ \ \-./\ \  \ \ \_\ \  \ \  __\ \ \  __\ \ \ \  \ \ \-.  \     \ \ \_\ \  \ \  _-/ \ \ \/\ \ \ \  __ \  \/_/\ \/ \ \  __\   
@@ -43,7 +43,20 @@ Have some projects going on... maby you can suspet someting new in a few weeks o
 (but dont feel that you have yo update your system)
 (if its not wrtten out here with CAPITAL letters that you should) 
 Look at the bottom of this message for INFO on whats coming in future updates! :)
+[/COLOR]
+[COLOR yellow]P[/COLOR][COLOR lime]i[/COLOR][COLOR deepskyblue]B[/COLOR][COLOR indigo]o[/COLOR][COLOR red]X[/COLOR] 3.0 is Coming wery soon! 
+Hahaha, wow, what a ride! jet, so much tweaks and changes "under the hood" (so you wont notice much;)
+Probably what you could notice is a sleaker, faster and more automated system.
+Two new features that are Exiting is.. *YouTubeLibrary and *YourLikedTraktList
+*Now you can add other Traktusers lists to your setup :D (maby you will also se "Trakt" or "Me" in Head Menu)
+*Now you can add your favorite youtubechannels to easyly find them throug "Web"(Will probably also apear a dedicated widget)
+Pleas give me requests on YouTubeChannels that you would like to see in default list :)
+All requests are welcome! 3.0 will be the first truly unified muffinpibox. and more or less considerd a Final/Beta+ Version.
+When all the frames and little details are finaly done we will call it final, hopefully that will hapend inbetwen version 3 and 4.
+We will alwas grow and change with time, so nothing is ever relay final, right? haha.. 
+But know that your not gona be left in the water!
 
+[COLOR dodgerblue]
 Install info........
 For new users: Click Remind Me Later (or Dismiss if you don't 
 want to se this message again), another message should pop up.
