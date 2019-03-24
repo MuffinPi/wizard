@@ -95,10 +95,10 @@ Kisses and Hugs!
   | || | | \__ \ |_| (_| | | | (_| | |_| | (_) | | | | | | | | |  _| (_) |_ _ _ 
  |___|_| |_|___/\__|\__,_|_|_|\__,_|\__|_|\___/|_| |_| |_|_| |_|_|  \___/(_|_|_)
 
-For New Users: Click Remind Me Later (or Dismiss if you don't want to se this message again), another message should pop up.
+For [/COLOR][COLOR red]N[/COLOR][COLOR orange]e[/COLOR][COLOR yellow]w[/COLOR] [COLOR lime]U[/COLOR][COLOR green]s[/COLOR][COLOR blue]e[/COLOR][COLOR indigo]r[/COLOR][COLOR violet]s[/COLOR][COLOR palegreen]: Click Remind Me Later (or Dismiss if you don't want to se this message again), another message should pop up.
 Now click FRESH INSTALL! Once install is done, click force close and re-open kodi, afterwards and you're good to go.
 
-For Old Users: Update notie will apear when new build is released :)
+For [/COLOR][COLOR red]O[/COLOR][COLOR orange]l[/COLOR][COLOR yellow]d[/COLOR] [COLOR lime]U[/COLOR][COLOR green]s[/COLOR][COLOR blue]e[/COLOR][COLOR indigo]r[/COLOR][COLOR violet]s[/COLOR][COLOR palegreen]: Update notie will apear when new build is released :)
 You can also (in menu) go to Power>Update, to check for new versions.
 If you have made some custom changes; chose "Standard install", otherwise chose "Fresh Install".
 
