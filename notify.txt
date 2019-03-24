@@ -91,13 +91,13 @@ Have a super duper day!
 [/COLOR][COLOR yellow]  _|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|_|     _|
 [/COLOR][COLOR green] (_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_(_   _ (_ 
 [/COLOR][COLOR blue]   |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__| |_( )__|
-[/COLOR][COLOR purple]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
-[/COLOR][COLOR red] ___           _         _ _       _   _               _        __             
-[/COLOR][COLOR yellow] |_ _|_ __  ___| |_  __ _| | | __ _| |_(_) ___  _ __   (_)_ __  / _| ___        
-[/COLOR][COLOR green]  | || '_ \/ __| __|/ _` | | |/ _` | __| |/ _ \| '_ \  | | '_ \| |_ / _ \       
-[/COLOR][COLOR blue]  | || | | \__ \ |_| (_| | | | (_| | |_| | (_) | | | | | | | | |  _| (_) |_ _ _ 
-[/COLOR][COLOR purple] |___|_| |_|___/\__|\__,_|_|_|\__,_|\__|_|\___/|_| |_| |_|_| |_|_|  \___/(_|_|_)
-[/COLOR]
+[/COLOR][COLOR purple]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/COLOR] 
+                                                                                                                   ______                                            ___________    ______           
+| |..          |             ..'''' `````|`````       .'.       |        |              .'.       `````|````` |  .~      ~.  |..          |        | |..          | |             .~      ~.         
+| |  ``..      |          .''            |          .''```.     |        |            .''```.          |      | |          | |  ``..      |        | |  ``..      | |______      |          |        
+| |      ``..  |       ..'               |        .'       `.   |        |          .'       `.        |      | |          | |      ``..  |        | |      ``..  | |            |          |        
+| |          ``| ....''                  |      .'           `. |_______ |_______ .'           `.      |      |  `.______.'  |          ``|        | |          ``| |             `.______.'         
+                                                                                                                                                                                                     
 For [/COLOR][COLOR red]N[/COLOR][COLOR orange]e[/COLOR][COLOR yellow]w[/COLOR] [COLOR lime]U[/COLOR][COLOR green]s[/COLOR][COLOR blue]e[/COLOR][COLOR indigo]r[/COLOR][COLOR purple]s[/COLOR][COLOR palegreen]: Click Remind Me Later (or Dismiss if you don't want to se this message again), another message should pop up.
 Now click FRESH INSTALL! Once install is done, click force close and re-open kodi, afterwards and you're good to go.
 
