@@ -1,6 +1,6 @@
 1
 |||
-                                         *Welcome to [COLOR deeppink]Muffin[/COLOR][COLOR lime]Wizard[/COLOR] home of [COLOR yellow]P[/COLOR][COLOR lime]i[/COLOR][COLOR deepskyblue]B[/COLOR][COLOR indigo]o[/COLOR][COLOR red]X[/COLOR], Current Version... [COLOR yellow]2.6[/COLOR]*[COLOR lime]
+                                         *Welcome to [COLOR deeppink]Muffin[/COLOR][COLOR lime]Wizard[/COLOR] home of [COLOR yellow]P[/COLOR][COLOR lime]i[/COLOR][COLOR deepskyblue]B[/COLOR][COLOR indigo]o[/COLOR][COLOR red]X[/COLOR], Current Version... [COLOR yellow]2.8[/COLOR]*[COLOR lime]
              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 [COLOR green]      ,'``.._   ,'``.                   
 [COLOR blue]     :,--._:)\,:,._,.:                 [/COLOR][COLOR lime]All Glory to
@@ -35,6 +35,9 @@
   \/_/ \/_/   \/_____/     \/_/   \/_/   \/_/     \/_/   \/_____/   \/_/\/_/     \/_/   \/_/   \/_____/   \/_/ \/_/   \/_____/ 
 
 Hello World! All update informations will be published here!
+
+PLEASE UPDATE TO NEWEST VERSION 2.8!
+
 (Look futher down for [/COLOR][COLOR red]"INSTALATON INFO"[/COLOR][COLOR dodgerblue])
 ((To see this message again restar your system) DON'T push Dismiss!)
 MuffinPi HAVE NOTHING! to do with CONTENT FOUND on ADDONS (read disclaimer in bottom)
@@ -60,7 +63,7 @@ But know that your not gona be left in the water!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/COLOR][COLOR dodgerblue]
 
 [/COLOR][COLOR red]C[/COLOR][COLOR orangered]h[/COLOR][COLOR orange]a[/COLOR][COLOR yellow]n[/COLOR][COLOR lime]g[/COLOR][COLOR green]e[/COLOR][COLOR blue]l[/COLOR][COLOR indigo]o[/COLOR][COLOR purple]g[/COLOR][COLOR deeppink].[/COLOR][COLOR red].[/COLOR][COLOR orangered].[/COLOR][COLOR dodgerblue]
-So many updates that i cant keep track... but main ones are:
+So many updates that muffin cant keep track... but main ones are:
 *Repo! :) (search through and install other Repo's (install Addons and Costmize your Setup!)
 *Wizard! :) (now you can Update from home, make your own Backups and Restore!)
 *New play alternatives and providers!
