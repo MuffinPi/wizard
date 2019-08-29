@@ -1,6 +1,6 @@
 1
 |||
-                                         *Welcome to [COLOR deeppink]Muffin[/COLOR][COLOR lime]Wizard[/COLOR] home of [COLOR yellow]P[/COLOR][COLOR lime]i[/COLOR][COLOR deepskyblue]B[/COLOR][COLOR indigo]o[/COLOR][COLOR red]X[/COLOR], Current Version... [COLOR yellow]2.8[/COLOR]*[COLOR lime]
+                                         *Welcome to [COLOR deeppink]Muffin[/COLOR][COLOR lime]Wizard[/COLOR] home of [COLOR yellow]P[/COLOR][COLOR lime]i[/COLOR][COLOR deepskyblue]B[/COLOR][COLOR indigo]o[/COLOR][COLOR red]X[/COLOR], Current Version... [COLOR yellow]2.8.5[/COLOR]*[COLOR lime]
              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 [COLOR green]      ,'``.._   ,'``.                   
 [COLOR blue]     :,--._:)\,:,._,.:                 [/COLOR][COLOR lime]All Glory to
@@ -36,7 +36,7 @@
 
 Hello World! All update informations will be published here!
 
-PLEASE UPDATE TO NEWEST VERSION 2.8!
+PLEASE UPDATE TO NEWEST VERSION 2.8.5!
 
 (Look futher down for [/COLOR][COLOR red]"INSTALATON INFO"[/COLOR][COLOR dodgerblue])
 ((To see this message again restar your system) DON'T push Dismiss!)
@@ -49,13 +49,6 @@ Look at the bottom of this message for INFO on whats coming in future updates! :
 [/COLOR][COLOR mediumpurple]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 [COLOR yellow]P[/COLOR][COLOR lime]i[/COLOR][COLOR deepskyblue]B[/COLOR][COLOR indigo]o[/COLOR][COLOR red]X[/COLOR] [COLOR yellow]3.0[/COLOR] is Coming WERY soon! (so keep yourself updated;)
-Hahaha, wow, what a ride! jet, so much tweaks and changes "under the hood" (so you wont notice much;)
-Probably what you could notice is a sleaker, faster and more automated system.
-Also this little text... (more work than one thinks) Lol...
-Two new features that are Exiting is.. *YouTubeLibrary and *YourLikedTraktList
-*Now you can add other Traktusers lists to your setup :D (maby you will also se "Trakt" or "Me" in Head Menu)
-*Now you can add your favorite youtubechannels to easyly find them throug "Web"(Will probably also apear a dedicated widget)
-Pleas give me requests on YouTubeChannels that you would like to see in default list :)
 All requests are welcome! 3.0 will be the first truly unified muffinpibox. and more or less considerd a Final/Beta+ Version.
 When all the frames and little details are finaly done we will call it final, hopefully that will hapend inbetwen version [COLOR yellow]3.0[/COLOR] and [COLOR yellow]4.0[/COLOR].
 We will alwas grow and change with time, so nothing is ever relay final, right? haha.. 
@@ -64,23 +57,23 @@ But know that your not gona be left in the water!
 
 [/COLOR][COLOR red]C[/COLOR][COLOR orangered]h[/COLOR][COLOR orange]a[/COLOR][COLOR yellow]n[/COLOR][COLOR lime]g[/COLOR][COLOR green]e[/COLOR][COLOR blue]l[/COLOR][COLOR indigo]o[/COLOR][COLOR purple]g[/COLOR][COLOR deeppink].[/COLOR][COLOR red].[/COLOR][COLOR orangered].[/COLOR][COLOR dodgerblue]
 So many updates that muffin cant keep track... but main ones are:
-*Repo! :) (search through and install other Repo's (install Addons and Costmize your Setup!)
-*Wizard! :) (now you can Update from home, make your own Backups and Restore!)
-*New play alternatives and providers!
-*New Favorite Category
-*Leia 18.1
-*Kiosk Mode (!Disabel if you want to Costumize your Setup!)
+
+*Major Updates
+*Skin Changes
+*Steamlinging
+*Leia 18.3
 *Minor Addon Updates, tweaks and fixes.
 
 [/COLOR][COLOR red]F[/COLOR][COLOR orangered]u[/COLOR][COLOR orange]t[/COLOR][COLOR yellow]u[/COLOR][COLOR lime]r[/COLOR][COLOR green]e[/COLOR] [COLOR blue]U[/COLOR][COLOR indigo]p[/COLOR][COLOR purple]d[/COLOR][COLOR deeppink]a[/COLOR][COLOR red]t[/COLOR][COLOR orangered]e[/COLOR][COLOR orange]s[/COLOR][COLOR yellow].[/COLOR][COLOR lime].[/COLOR][COLOR green].[/COLOR][COLOR dodgerblue]
-*New Anime Providers
+
+*Major Updates
+*Sport Addon
 *Yet More Providers
-*Smart YouTube Playlists (maby costumable)
 *More LiveTV
-*"Muffi'n Unified Suite" (unified addons for your comfort:)
-*New "Noflix" Look (maby you can be able to choose betwene two or more skins)
+*More Content 
 *Steamlining, tweaks and fixes... (mostly "under the hood")
 *Requests (listening)
+*Two Versions (essential and pro)
 
 Have a super duper day!
 [/COLOR][COLOR red]H[/COLOR][COLOR orangered]u[/COLOR][COLOR orange]g[/COLOR][COLOR yellow]s[/COLOR] [COLOR lime]a[/COLOR][COLOR green]n[/COLOR][COLOR blue]d[/COLOR] [COLOR indigo]K[/COLOR][COLOR purple]i[/COLOR][COLOR deeppink]s[/COLOR][COLOR red]e[/COLOR][COLOR orangered]s[/COLOR][COLOR orange]![/COLOR][COLOR dodgerblue]
