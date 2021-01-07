@@ -1,5 +1,5 @@
 name="PiBoXqLight"
-version="1"
+version="2"
 url="https://www.dropbox.com/s/z50adki6kfqakle/piboxlight21.zip?dl=1"
 minor="http://"
 gui="https://www.dropbox.com/s/zjouwuq5vjvf12i/piboxlight21_guisettings.zip?dl=1"
