@@ -3,7 +3,7 @@ version="0.2.2"
 zip="https://github.com/MuffinPi/addons/raw/master/plugin.program.muffinwizard/plugin.program.muffinwizard-0.2.2.zip"
 
 name="PiBoXqLight"
-version="1"
+version="2"
 url="https://www.dropbox.com/s/z50adki6kfqakle/piboxlight21.zip?dl=1"
 minor="http://"
 gui="https://www.dropbox.com/s/zjouwuq5vjvf12i/piboxlight21_guisettings.zip?dl=1"
